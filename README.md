@@ -1,8 +1,5 @@
 # Automatic Currency Withdrawal & Stock Update System
 
-**License: MIT**
-
----
 
 ## Project Overview
 
@@ -62,7 +59,7 @@ This system is suitable for schools, offices, hospitals, and institutions that r
 
 ## Project Structure
 
-```
+
 Automatic-Currency-System/
 │
 ├── Google Form (UI for requests)
@@ -110,8 +107,9 @@ Automatic-Currency-System/
 * Stock is updated automatically
 * Confirmation email is sent
 * Data is logged for tracking
-
----
+<img width="1920" height="952" alt="image" src="https://github.com/user-attachments/assets/63c89ca5-625c-4760-9cae-3bab200681a4" />
+<img width="1911" height="942" alt="image" src="https://github.com/user-attachments/assets/7bea4323-8b59-4a14-9ce8-fd1806e7c1ce" />
+<img width="1898" height="1001" alt="image" src="https://github.com/user-attachments/assets/942e4ff9-ff53-40e2-8f55-4a322720fbc1" />
 
 ## Real-World Applications
 
