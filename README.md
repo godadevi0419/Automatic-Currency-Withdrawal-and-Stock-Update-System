@@ -2,7 +2,7 @@ Automatic Currency Withdrawal & Stock Update System
 
 Project Overview
 Automatic Currency Withdrawal & Stock Update System is a cloud-based automation solution designed to manage currency distribution efficiently using Google Forms, Google Sheets, and Apps Script.
-It eliminates manual errors, prevents over-withdrawal, and ensures real-time stock visibility. Users can request currency denominations through a dynamic form, and the system automatically updates inventory, logs transactions, and sends confirmations — like a silent accountant working 24/7.
+It eliminates manual errors, prevents over-withdrawal, and ensures real-time stock visibility. Users can request currency denominations through a dynamic form, and the system automatically updates inventory, logs transactions, and sends confirmations — like a silent accountant working 24/7 🧾⚙️
 This system is ideal for schools, offices, hospitals, and institutions that require controlled and transparent cash handling.
 Technologies Used
 Google Forms – User interface for withdrawal requests
@@ -59,7 +59,7 @@ Updates available denominations for next user
 <img width="1920" height="952" alt="image" src="https://github.com/user-attachments/assets/5e81b65e-4779-4a54-8ffc-65727893e449" />
 <img width="1911" height="942" alt="image" src="https://github.com/user-attachments/assets/7a3b457d-9f35-4c35-a291-ae3b84c38ad7" />
 
-Imagine a vending machine… but for currency logic 
+Imagine a vending machine… but for currency logic 🏧✨
 
 You ask → system checks → system gives → system updates → system remembers
 
