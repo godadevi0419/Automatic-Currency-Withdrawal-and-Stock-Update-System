@@ -9,11 +9,15 @@ This system is ideal for schools, offices, hospitals, and institutions that requ
 
 Technologies Used
 
-Google Forms – User interface for withdrawal requests
-Google Sheets – Real-time inventory database
-Google Apps Script – Automation and backend logic
-Gmail API (via Apps Script) – Automated email notifications
-Cloud-Based Workflow – No hardware dependency
+**Google Forms – User interface for withdrawal requests
+
+**Google Sheets – Real-time inventory database
+
+**Google Apps Script – Automation and backend logic
+
+**Gmail API (via Apps Script) – Automated email notifications
+
+**Cloud-Based Workflow – No hardware dependency
 
  Key Features
  
